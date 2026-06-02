@@ -1,5 +1,4 @@
 # You Can't Look a Gift Model in the Mouth! 🎁 🤖
-## Planting Undetectable Backdoors in Machine Learning Models
 
 This repository contains the complete presentation slides of my academic seminar.
 
@@ -54,4 +53,4 @@ Technologies and external frameworks should be leveraged to support our thinking
 Full slide deck with visual proofs, conceptual analogies, and technical architectures.
 
 ## 🎓 Acknowledgments
-This seminar is based on the foundational research paper [*"Planting Undetectable Backdoors in Machine Learning Models"*](https://arxiv.org/abs/2204.06974) by Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir.
+This seminar is based on the research paper [*"Planting Undetectable Backdoors in Machine Learning Models"*](https://arxiv.org/abs/2204.06974) by Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir.
