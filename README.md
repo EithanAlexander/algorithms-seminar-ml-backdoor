@@ -4,7 +4,7 @@ This repository contains the complete presentation slides of my academic seminar
 
 It explores the **Trust Dilemma in Machine Learning as a Service (MLaaS)**, analyzing how a malicious third-party provider can plant a completely undetectable backdoors in ML models.
 
-This seminar aims to translat the complex cryptographic and AI security research into an accessible, educational format using whimsical illustrations to better understand the complexity of the ideas presented in the artcial.
+This seminar aims to translate the complex cryptographic and AI security research into an accessible, educational format using whimsical illustrations to better understand the complexity of the ideas presented in the artcial.
 
 ---
 
